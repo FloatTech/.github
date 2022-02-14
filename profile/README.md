@@ -3,10 +3,10 @@
 ![FloatTech](https://github.com/FloatTech/.github/blob/main/logo/logo.jpg)
 
 - 🙋‍Welcome to Floating Technology!
-- 🤩We are committed to developing better QQ chatbots and developing more interesting application functions.
-- 🔥We actively contribute to open source, and at the same time hope that you leave valuable comments, we will actively adopt! !
-- 🙏Finally, thank you for your support! ! If you are interested in any of our projects, please click on the stars, each of your stars is our support and encouragement!
-
+- 🤩我们致力于开发更好的QQ聊天机器人，开发更多有趣的应用功能。
+- 🔥我们积极为开源贡献力量，同时希望大家留下宝贵意见，我们会积极采纳并不断进行改进优化！ ！
+- 🙏最后感谢大家的支持！ ！ 如果您对我们的任何一个项目感兴趣请点个Star，您的每一个Star都是对我们的支持和鼓励！
+- 
 # 🔥Recent Projects
 |PROJECTS
 |--------
