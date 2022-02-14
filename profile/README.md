@@ -1,4 +1,4 @@
-## Hi Here's Floating Technology  👋
+## Hi Here's Floating Technology OpenSource  👋
 
 ![FloatTech](https://github.com/FloatTech/.github/blob/main/logo/logo.jpg)
 
