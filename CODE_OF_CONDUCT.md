@@ -1,4 +1,5 @@
 ## [Chinese](https://github.com/FloatTech/.github/blob/main/CODE_OF_CONDUCT_CN.md)
+# Want to contribute to FloatTech? Please read carefully the following code of conduct to contribute code
 # Code of Conduct
 
 ## Our Pledge
@@ -66,3 +67,4 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
+© 2022 FloatTech
