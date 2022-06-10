@@ -1,4 +1,4 @@
-[Chinese](https://github.com/FloatTech/.github/blob/main/CODE_OF_CONDUCT_CN.md)
+## [Chinese](https://github.com/FloatTech/.github/blob/main/CODE_OF_CONDUCT_CN.md)
 # Code of Conduct
 
 ## Our Pledge
