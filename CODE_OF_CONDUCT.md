@@ -1,3 +1,4 @@
+[Chinese](https://github.com/FloatTech/.github/blob/main/CODE_OF_CONDUCT_CN.md)
 # Code of Conduct
 
 ## Our Pledge
@@ -52,14 +53,14 @@ project e-mail address, posting via an official social media account, or acting
 as an appointed representative at an online or offline event. Representation of
 a project may be further defined and clarified by project maintainers.
 
-## Enforcement
+## Law enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the open source team at [opensource-conduct@FloatTech](mailto:a15964199298@163.com). All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Abusive, harassing or other unacceptable behavior may occur
+Report via [opensource-conduct@FloatTech](mailto:a15964199298@163.com) or contact an open source team member. all
+Complaints will be reviewed and investigated and will result in a response
+deemed necessary and appropriate to the situation. Project team is
+Obligation to keep the reporter of the incident confidential.
+More details on specific enforcement policies may be released separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
