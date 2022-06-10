@@ -13,3 +13,6 @@
   ![FloatTech](https://github.com/FloatTech/.github/blob/main/logo/logo.jpg)
 
 </div>
+
+# 给我们提交贡献
+- 请仔细阅读我们的[贡献者指南](https://github.com/FloatTech/.github/blob/main/CONTRIBUTING.md)
