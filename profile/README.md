@@ -15,5 +15,4 @@
 </div>
 
 # 给我们提交贡献
-- 请仔细阅读我们的[贡献者指南](https://github.com/FloatTech/.github/blob/main/CONTRIBUTING.md)
 - [社区开源贡献行为守则](https://github.com/FloatTech/.github/blob/main/CODE_OF_CONDUCT.md)
