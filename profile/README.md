@@ -13,6 +13,3 @@
   ![FloatTech](https://github.com/FloatTech/.github/blob/main/logo/logo.jpg)
 
 </div>
-
-# 给我们提交贡献
-- [社区开源贡献行为守则](https://github.com/FloatTech/.github/blob/main/CODE_OF_CONDUCT.md)
