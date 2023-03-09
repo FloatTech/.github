@@ -10,6 +10,6 @@
   |[AI-Bot](https://github.com/FloatTech/AI-Bot) --一个基于watermelon改造的OpenAI-GPT-2的智能机器人 
   |[Plugin-Template](https://github.com/FloatTech/Plugin-Template) --模块化插件生成模版
   
-  ![FloatTech](https://github.com/FloatTech/.github/blob/main/logo/logo.jpg)
+  ![FloatTech](https://cmoe.azurewebsites.net/cmoe?name=FloatTech&theme=gb)
 
 </div>
