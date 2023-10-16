@@ -7,7 +7,8 @@
 
   |MORE PROJECTS
   |--------
-  |[AI-Bot](https://github.com/FloatTech/AI-Bot) --一个基于watermelon改造的OpenAI-GPT-2的智能机器人 
+  |[voidbot](https://github.com/FloatTech/voidbot) --支持 OneBot 标准的 能跑就行 Python SDK
+  |[AI-Bot](https://github.com/FloatTech/AI-Bot) --一个基于watermelon改造的OpenAI-GPT-2的智能机器人
   |[Plugin-Template](https://github.com/FloatTech/Plugin-Template) --模块化插件生成模版
   
   ![FloatTech](https://counter.seku.su/cmoe?name=FloatTech&theme=gb)
